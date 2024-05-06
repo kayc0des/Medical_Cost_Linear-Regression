@@ -18,8 +18,7 @@ To run the code and develop the linear regression model, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed on your system.
-3. Install the required dependencies listed in `requirements.txt` using the following command:
-
+3. Install the required dependencies listed in `requirements.txt` using the following command: pip install -r requirements.txt
 4. Navigate to the directory containing the cloned repository.
 
 ### Usage
